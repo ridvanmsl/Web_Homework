@@ -1,0 +1,537 @@
+﻿@model IEnumerable<PopularMovies>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOVBOT</title>
+    <link rel="stylesheet" href="site.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+    <link rel="shortcut icon" href="img/movie-solid-24.png" type="image/x-icon">
+    <!-- Link Swiper's CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+</head>
+<body>
+    <!--=============== SECTION HOME ===============-->
+    <section class="home swiper" id="home">
+
+        <div class="swiper-wrapper">
+
+            <!-- Box 1 -->
+            <div class="swiper-slide container">
+                <img src="img/hero.jpg" alt="">
+                <div class="home-text">
+                    <span>The Batman</span>
+                    <h1>Zoom Into The Darkness</h1>
+                    <a href="batman.html" class="btn">Summary</a>
+                    <a href="batman.html" class="play">
+                        <i class='bx bx-play'></i>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Box 2 -->
+            <div class="swiper-slide container">
+                <img src="img/hero2.jpg" alt="">
+                <div class="home-text">
+                    <span> Doctor Strange in the Multiverse of Madness</span>
+                    <h1>Multiverse Of Madness</h1>
+                    <a href="doctor-strange.html" class="btn">Summary</a>
+                    <a href="doctor-strange.html" class="play">
+                        <i class='bx bx-play'></i>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Box 3 -->
+            <div class="swiper-slide container">
+                <img src="img/hero3.jpg" alt="">
+                <div class="home-text">
+                    <span>Dune</span>
+                    <h1>Planet Of Desert</h1>
+                    <a href="dune.html" class="btn">Summary</a>
+                    <a href="dune.html" class="play">
+                        <i class='bx bx-play'></i>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="swiper-pagination"></div>
+
+    </section>
+
+    <!--=============== SECTION MOVIES ===============-->
+    <section class="movies" id="movies">
+        <h2 class="heading">Popular Movies</h2>
+        <!--Movies Container -->
+        <div class="movies-container">
+            <!-- Box 1 -->
+            @foreach(var item in Model){
+                <div class="box">
+                    <div class="box-img">
+                        <a href="doctor-strange.html"><img src="@item.imgurl" alt=""></a>
+                    </div>
+                    <h3>@item.name</h3>
+                    <span>@item.duration min | @item.category</span>
+                </div>
+            }
+        </div>
+    </section>
+
+    <!--=============== SECTION COMING ===============-->
+    <section class="coming" id="coming">
+        <h2 class="heading">Coming Soon</h2>
+        <!--Coming Container -->
+        <div class="coming-container swiper">
+            <div class="swiper-wrapper">
+                <!-- Box 1 -->
+                <div class="swiper-slide box">
+                    <div class="box-img">
+                        <a href="avatar-2.html"><img src="img/q2.jpg" alt=""></a>
+                    </div>
+                    <h3>Avatar: The Way of Water</h3>
+                    <span>Action, Science Fiction</span>
+                    <h6>8 July 2022</h6>
+                </div>
+
+                <!-- Box 2 -->
+                <div class="swiper-slide box">
+                    <div class="box-img">
+                        <a href="thor.html"><img src="img/q1.jpg" alt=""></a>
+                    </div>
+                    <h3>Thor: Love and Thunder</h3>
+                    <span>Action, Adventure, Fantasy</span>
+                    <h6>8 July 2022</h6>
+                </div>
+
+                <!-- Box 3 -->
+                <div class="swiper-slide box">
+                    <div class="box-img">
+                        <a href="the-wrong-place.html"><img src="img/q3.jpg" alt=""></a>
+                    </div>
+                    <h3>The Wrong Place</h3>
+                    <span>Thriller, Action</span>
+                    <h6>15 July 2022</h6>
+                </div>
+
+                <!-- Box 4 -->
+                <div class="swiper-slide box">
+                    <div class="box-img">
+                        <a href="toronto.html"><img src="img/q4.jpg" alt=""></a>
+                    </div>
+                    <h3>The Man from Toronto</h3>
+                    <span>Action, Comedy, Thriller</span>
+                    <h6>Expected 2022</h6>
+                </div>
+
+                <!-- Box 5 -->
+                <div class="swiper-slide box">
+                    <div class="box-img">
+                        <a href="black-adam.html"><img src="img/q5.jpg" alt=""></a>
+                    </div>
+                    <h3>Black Adam</h3>
+                    <span>Action, Fantasy, Sci-Fi</span>
+                    <h6>21 October 2022</h6>
+                </div>
+
+                <!-- Box 6 -->
+                <div class="swiper-slide box">
+                    <div class="box-img">
+                        <a href="shazam.html"><img src="img/q6.jpg" alt=""></a>
+                    </div>
+                    <h3>Shazam! Fury of the Gods</h3>
+                    <span>Action, Adventure, Comedy</span>
+                    <h6>21 December 2022</h6>
+                </div>
+
+                <!-- Box 7 -->
+                <div class="swiper-slide box">
+                    <div class="box-img">
+                        <a href="watcher.html"><img src="img/q7.jfif" alt=""></a>
+                    </div>
+                    <h3>Watcher</h3>
+                    <span>Drama, Horror, Thriller</span>
+                    <h6>22 Haziran 2022</h6>
+                </div>
+
+                <!-- Box 8 -->
+                <div class="swiper-slide box">
+                    <div class="box-img">
+                        <a href="jurassic.html"><img src="img/q8.jpg" alt=""></a>
+                    </div>
+                    <h3>Jurassic World Dominion</h3>
+                    <span>Action, Adventure, Sci-Fi</span>
+                    <h6>10 June 2022</h6>
+                </div>
+
+                <!-- Box 9 -->
+                <div class="swiper-slide box">
+                    <div class="box-img">
+                        <a href="fast-x.html"><img src="img/q9.jfif" alt=""></a>
+                    </div>
+                    <h3>Fast X</h3>
+                    <span>Action, Crime, Mystery</span>
+                    <h6>19 May 2023</h6>
+                </div>
+
+                <!-- Box 10 -->
+                <div class="swiper-slide box">
+                    <div class="box-img">
+                        <a href="john.html"><img src="img/q10.jpg" alt=""></a>
+                    </div>
+                    <h3>John Wick: Chapter 4</h3>
+                    <span>Action, Crime, Thriller</span>
+                    <h6>24 March 2023</h6>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+
+    <!--=============== Suggestion Part ===============-->
+    <section class="section-sugges">
+
+        <h2 class="heading">WHAT SHOULD I WATCH?</h2>
+        <br>
+        <!--Movies Container -->
+        <h4 class="category-heading">Select a category</h4>
+        <div class="checkbox">
+            <!--Action checkbox -->
+            <div class="action-cb">
+                <input type="checkbox" id="action" name="action" value="action" onchange="handleChange(this)">
+                <label for="action">Action</label>
+
+            </div>
+
+            <!--Adventure checkbox -->
+            <div class="action-cb">
+                <input type="checkbox" id="adventure" name="adventure" value="adventure" onchange="handleChange(this)">
+                <label for="adventure">Adventure</label>
+            </div>
+
+            <!--Comedy checkbox -->
+            <div class="action-cb">
+                <input type="checkbox" id="comedy" name="comedy" value="comedy" onchange="handleChange(this)">
+                <label for="comedy">Comedy</label>
+
+            </div>
+
+            <!--Crime checkbox -->
+            <div class="action-cb">
+                <input type="checkbox" id="crime" name="crime" value="crime" onchange="handleChange(this)">
+                <label for="crime">Crime</label>
+
+            </div>
+
+            <!--Drama checkbox -->
+            <div class="action-cb">
+                <input type="checkbox" id="drama" name="drama" value="drama" onchange="handleChange(this)">
+                <label for="drama">Drama</label>
+
+            </div>
+
+
+
+            <!--Sci-fi checkbox -->
+            <div class="action-cb">
+                <input type="checkbox" id="sci-fi" name="sci-fi" value="sci-fi" onchange="handleChange(this)">
+                <label for="sci-fi">Sci-fi</label>
+
+            </div>
+
+            <!--Thriller checkbox -->
+            <div class="action-cb">
+                <input type="checkbox" id="thriller" name="thriller" value="thriller" onchange="handleChange(this)">
+                <label for="thriller">Thriller</label>
+
+            </div>
+
+        </div>
+        <div class="movies-container">
+            <!-- Box 1 -->
+
+            <div class="box action fantastic deactive">
+                <div class="box-img">
+                    <a href="doctor-strange.html"><img src="img/m1.jpg" alt=""></a>
+                </div>
+                <h3>Doctor Strange</h3>
+                <span>126 min | Action, Fantastic</span>
+            </div>
+
+
+            <!-- Box 2 -->
+
+            <div class="box action adventure deactive">
+                <div class="box-img">
+                    <a href="northman.html"> <img src="img/m2.jpg" alt=""></a>
+                </div>
+                <h3>The Northman</h3>
+                <span>137 min | Action, Adventure</span>
+            </div>
+
+
+            <!-- Box 3 -->
+            <div class="box action adventure deactive">
+                <div class="box-img">
+                    <a href="lotr.html"><img src="img/m3.jpg" alt=""></a>
+                </div>
+                <h3>Lord Of The Rings</h3>
+                <span>178 min | Action, Adventure</span>
+            </div>
+
+            <!-- Bx 4 -->
+            <div class="box crime drama deactive">
+                <div class="box-img">
+                    <a href="gf.html"><img src="img/m4.jpg" alt=""></a>
+                </div>
+                <h3>The Godfather</h3>
+                <span>175 min | Crime, Drama</span>
+            </div>
+
+            <!-- Box 5 -->
+            <div class="box comedy crime deactive">
+                <div class="box-img">
+                    <a href="pulp-fiction.html"><img src="img/m5.jpg" alt=""></a>
+
+                </div>
+                <h3>Pulp Fiction</h3>
+                <span>154 min | Comedy, Crime</span>
+            </div>
+
+            <!-- Box 6 -->
+            <div class="box action crime drama deactive">
+                <div class="box-img">
+                    <a href="batman.html"><img src="img/m6.jpg" alt=""></a>
+                </div>
+                <h3>The Batman</h3>
+                <span>176 min | Action, Crime, Drama</span>
+            </div>
+
+            <!-- Box 7 -->
+            <div class="box action adventure drama deactive">
+                <div class="box-img">
+                    <a href="dune.html"><img src="img/m7.jpg" alt=""></a>
+                </div>
+                <h3>Dune</h3>
+                <span>155 min | Action, Adventure, Drama</span>
+            </div>
+
+            <!-- Box 8 -->
+            <div class="box sci-fi adventure deactive">
+                <div class="box-img">
+                    <a href="interstellar.html"><img src="img/m8.jpg" alt=""></a>
+                </div>
+                <h3>Interstellar</h3>
+                <span>169 dk | Science Fiction, Adventure</span>
+            </div>
+
+            <!-- Box 9 -->
+            <div class="box drama thriller deactive">
+                <div class="box-img">
+                    <a href="fight-club.html"><img src="img/m9.jpg" alt=""></a>
+                </div>
+                <h3>Fight Club</h3>
+                <span>139 min | Drama, Thriller</span>
+            </div>
+
+            <!-- Box 10 -->
+            <div class="box drama deactive">
+                <div class="box-img">
+                    <a href="tsr.html"><img src="img/m10.jpg" alt=""></a>
+                </div>
+                <h3>The Shawshank Redemption</h3>
+                <span>144 min | Drama</span>
+            </div>
+
+            <!-- Box 11 -->
+
+            <div class="box action comedy crime deactive">
+                <div class="box-img">
+                    <a href="heat.html"><img src="img/m11.jpg" alt=""></a>
+                </div>
+                <h3>The Heat</h3>
+                <span>117 min | Action, Comedy, Crime</span>
+            </div>
+
+
+            <!-- Box 12 -->
+
+            <div class="box action adventure sci-fi deactive">
+                <div class="box-img">
+                    <a href="halo.html"> <img src="img/m12.jpg" alt=""></a>
+                </div>
+                <h3>Halo</h3>
+                <span>unknown | Action, Adventure, Sci-fi</span>
+            </div>
+
+
+            <!-- Box 13 -->
+            <div class="box drama deactive">
+                <div class="box-img">
+                    <a href="theking.html"><img src="img/m13.jpg" alt=""></a>
+                </div>
+                <h3>The King</h3>
+                <span>140 min | Drama</span>
+            </div>
+
+            <!-- Bx 14 -->
+            <div class="box action comedy crime deactive">
+                <div class="box-img">
+                    <a href="gentlemen.html"><img src="img/m14.jpg" alt=""></a>
+                </div>
+                <h3>The Gentlemen</h3>
+                <span>113 min | Action, Comedy, Crime</span>
+            </div>
+
+            <!-- Box 15 -->
+            <div class="box action adventure comedy deactive">
+                <div class="box-img">
+                    <a href="freeguy.html"><img src="img/m15.jpg" alt=""></a>
+                </div>
+                <h3>Free Guy</h3>
+                <span>115 min | Action, Adventure, Comedy</span>
+            </div>
+
+            <!-- Box 16 -->
+            <div class="box adventure comedy crime deactive">
+                <div class="box-img">
+                    <a href="cruella.html"><img src="img/m16.jpg" alt=""></a>
+                </div>
+                <h3>Cruella</h3>
+                <span>134 min | Adventure, Comedy, Crime</span>
+            </div>
+
+            <!-- Box 17 -->
+            <div class="box action sci-fi thriller deactive">
+                <div class="box-img">
+                    <a href="infinite.html"><img src="img/m17.jpg" alt=""></a>
+                </div>
+                <h3>Infinite</h3>
+                <span>106 min | Action, Sci-fi, Thriller</span>
+            </div>
+
+            <!-- Box 18 -->
+            <div class="box drama sci-fi thriller deactive">
+                <div class="box-img">
+                    <a href="encounter.html"><img src="img/m18.jpg" alt=""></a>
+                </div>
+                <h3>Encounter</h3>
+                <span>108 dk | Drama, Sci-fi, Thriller</span>
+            </div>
+
+            <!-- Box 19 -->
+            <div class="box action sci-fi thriller deactive">
+                <div class="box-img">
+                    <a href="correct.html"><img src="img/m19.jpg" alt=""></a>
+                </div>
+                <h3>Corrective Measures</h3>
+                <span>139 min | Action, Sci-fi, Thriller</span>
+            </div>
+
+            <!-- Box 20 -->
+            <div class="box action sci-fi thriller deactive">
+                <div class="box-img">
+                    <a href="lucy.html"><img src="img/m20.jpg" alt=""></a>
+                </div>
+                <h3>Lucy</h3>
+                <span>89 min | Action, Sci-fi, Thriller</span>
+            </div>
+    </section>
+
+    <!--=============== SECTION NEWS ===============-->
+    <section class="news" id="news">
+        <h2 class="heading">Latest Movie News</h2>
+        <div class="news-container">
+            <!-- Box 1 -->
+            <div class="box">
+                <div class="box-img">
+                    <img src="img/news1.jpg" alt="">
+                </div>
+                <h5>NEWS - TV SERIES</h5>
+                <span>May 9 2022</span>
+                <h3>"New Trailer From "House of the Dragon" Series Has Arrived!</h3>
+            </div>
+
+            <!-- Box 2 -->
+            <div class="box">
+                <div class="box-img">
+                    <img src="img/news2.jpg" alt="">
+                </div>
+                <h5>NEWS - ACTORS</h5>
+                <span>May 7 2022</span>
+                <h3>Sam Raimi Wants To Film A Sequel Of "Darkman" With Liam Neeson!</h3>
+            </div>
+
+            <!-- Box 3 -->
+            <div class="box">
+                <div class="box-img">
+                    <img src="img/news3.jpg" alt="">
+                </div>
+                <h5>NEWS - FILMS</h5>
+                <span>May 6 2022</span>
+                <h3>Marvel Cinematic Universe's Next 10 Years Planned!</h3>
+            </div>
+
+            <!-- Box 4 -->
+            <div class="box">
+                <div class="box-img">
+                    <img src="img/news4.jpg" alt="">
+                </div>
+                <h5>NEWS - SECRET CASES</h5>
+                <span>May 4 2022</span>
+                <h3>Ambitious Productions to be Released in the Summer of 2022</h3>
+            </div>
+
+
+            <!-- Box 5 -->
+            <div class="box">
+                <div class="box-img">
+                    <img src="img/news5.jpg" alt="">
+                </div>
+                <h5>NEWS - FILMS</h5>
+                <span>May 2 2022</span>
+                <h3>Full Title and Release Date of “Avatar 2” Movie Announced!</h3>
+            </div>
+
+            <!-- Box 6 -->
+            <div class="box">
+                <div class="box-img">
+                    <img src="img/news6.jpg" alt="">
+                </div>
+                <h5>NEWS - TV SERIES</h5>
+                <span>May 2 2022</span>
+                <h3>New Season Date and Trailer of Netflix's “Cobra Kai” Series Has Arrived!</h3>
+            </div>
+
+        </div>
+
+        <!-- Newsletter -->
+        <div class="newsletter-container">
+            <h2>For News<br> Subscribe</h2>
+            <form action="">
+                <input type="email" class="email" placeholder="E-Mail" required>
+                <input type="submit" value="Subscribe" class="btn">
+            </form>
+        </div>
+    </section>
+
+    <!-- Copyright -->
+    <div class="copyright">
+        <p>&#169; MOVBOT 2022 All Rights Reserved.  </p>
+    </div>
+
+    <!-- Swiper JS -->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+    <!-- JS -->
+    <script src="js/site.js"></script>
+
+</body>
+</html>
