@@ -10,11 +10,14 @@ namespace WebAssignmentt.Controllers
         {
             return View(PopularMoviesRepo.Popmov);
         }
-        [HttpPost]
-        public IActionResult Details(string filmurl)
-        {
-            string url = "~/Views/Home/movies/" + filmurl;
-            return View(url);
-        }
+        //[Route("/Home/movies",Name ="movie")]
+        //public IActionResult Details(string movie)
+        //{
+
+        //    string url = "~/Views/Home/movies/" + movie;
+        //    return Content(url);
+        //}
+        [Route("Home/{id:int}")]
+        public IActionResult Detail(int idx) => View(PopularMoviesRepo.Popmov.FirstOrDefault(a => a.id == idx));
     }
 }

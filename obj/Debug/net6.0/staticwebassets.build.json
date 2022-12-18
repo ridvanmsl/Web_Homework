@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< Updated upstream
-  "Hash": "5Sxt3D5Uy+VXZ0DVLaA0uc3uOTjwGuu3b9bs5ivFlQk=",
-=======
-  "Hash": "6OWYgmeuPOOsrvjbFyBTqUk11SanD8HvUlSAsj83NfM=",
->>>>>>> Stashed changes
+  "Hash": "x8k8+rnVF8D0gTtDgdFhHQTcQb1QGXX20q+FZWVDhoU=",
   "Source": "WebAssignmentt",
   "BasePath": "_content/WebAssignmentt",
   "Mode": "Default",
@@ -1075,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ridva\\OneDrive\\Masaüstü\\web_homework\\Web_Homework\\wwwroot\\src\\hero.jpg",
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\src\\hero.jpg",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ridva\\OneDrive\\Masaüstü\\web_homework\\Web_Homework\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "src/hero.jpg",
       "AssetKind": "All",
@@ -1092,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\src\\hero.jpg"
     },
     {
-      "Identity": "C:\\Users\\ridva\\OneDrive\\Masaüstü\\web_homework\\Web_Homework\\wwwroot\\src\\hero2.jpg",
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\src\\hero2.jpg",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ridva\\OneDrive\\Masaüstü\\web_homework\\Web_Homework\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "src/hero2.jpg",
       "AssetKind": "All",
@@ -1109,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\src\\hero2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ridva\\OneDrive\\Masaüstü\\web_homework\\Web_Homework\\wwwroot\\src\\hero3.jpg",
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\src\\hero3.jpg",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ridva\\OneDrive\\Masaüstü\\web_homework\\Web_Homework\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "src/hero3.jpg",
       "AssetKind": "All",
