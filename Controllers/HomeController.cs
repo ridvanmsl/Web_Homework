@@ -10,5 +10,10 @@ namespace WebAssignmentt.Controllers
         {
             return View(PopularMoviesRepo.Popmov);
         }
+        [HttpPost]
+        public IActionResult DoctorStrange()
+        {
+            return View("~/Views/Home/movies/doctor-strange.cshtml");
+        }
     }
 }

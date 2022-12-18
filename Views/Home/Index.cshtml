@@ -75,7 +75,7 @@
             @foreach(var item in Model){
                 <div class="box">
                     <div class="box-img">
-                        <a href="doctor-strange.html"><img src="@item.imgurl" alt=""></a>
+                        <a asp-controller="Home" asp-action="@item.action"><img src="@item.imgurl"></a>
                     </div>
                     <h3>@item.name</h3>
                     <span>@item.duration min | @item.category</span>
