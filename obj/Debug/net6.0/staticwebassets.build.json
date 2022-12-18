@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XbgVe0t96XUOtP0vo7VWVGfKo5c7KANCdSM6TylWubM=",
+  "Hash": "FOQN/fZaAZv0vpcs94s6cH5xjnvk0eeczkQdCHr+qGI=",
   "Source": "WebAssignmentt",
   "BasePath": "_content/WebAssignmentt",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ridva\\OneDrive\\Masaüstü\\web_homework\\Web_Homework\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebAssignmentt.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ridva\\OneDrive\\Masaüstü\\web_homework\\Web_Homework\\wwwroot\\css\\about.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ridva\\OneDrive\\Masaüstü\\web_homework\\Web_Homework\\wwwroot\\",
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "css/about.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\about.css"
     },
     {
       "Identity": "C:\\Users\\ridva\\OneDrive\\Masaüstü\\web_homework\\Web_Homework\\wwwroot\\css\\site.css",

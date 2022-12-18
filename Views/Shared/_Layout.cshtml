@@ -12,7 +12,7 @@
 <body>
     <!--=============== NAVBAR ===============-->
     <header>
-        <a href="index.html" class="logo">
+        <a asp-controller="Home" asp-action="Index" class="logo">
             <i class='bx bxs-movie'></i> MOVBOT
         </a>
         <div class="bx bx-menu" id="menu-icon"></div>
@@ -23,7 +23,7 @@
             <li><a href="#coming">Soon</a></li>
             <li><a href="#news">News</a></li>
         </ul>
-        <a href="about.html" class="btn">Contact</a>
+        <a asp-controller="About" asp-action="about" class="btn">Contact</a>
     </header>
 
     @RenderBody()
