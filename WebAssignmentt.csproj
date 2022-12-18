@@ -7,9 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\src\hero.jpg" />
-    <None Include="wwwroot\src\hero2.jpg" />
-    <None Include="wwwroot\src\hero3.jpg" />
+    <None Include="wwwroot\img\hero.jpg" />
+    <None Include="wwwroot\img\hero2.jpg" />
+    <None Include="wwwroot\img\hero3.jpg" />
   </ItemGroup>
 
 </Project>
