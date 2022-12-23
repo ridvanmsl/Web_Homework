@@ -10,11 +10,12 @@ namespace WebAssignmentt.Controllers
         {
             return View(PopularMoviesRepo.Popmov);
         }
-        [HttpPost]
+        [HttpPost("Details")]
         public IActionResult Details(string filmurl)
         {
-            string url = "~/Views/Home/movies/" + filmurl;
-            return View(url);
+            string url = "~/Views/Home/movies/";
+            string newurl = string.Concat(url, filmurl);
+            return Content(newurl);
         }
     }
 }
