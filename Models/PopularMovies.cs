@@ -7,6 +7,7 @@
         public string? imgurl { get; set; }
         public string? category { get; set; }
         public string? viewurl { get; set; }
+        public int? id { get; set; }
     }
     public static class PopularMoviesRepo
     {
@@ -16,7 +17,7 @@
         {
             _popmov = new List<PopularMovies>()
             {
-                new PopularMovies(){name="Doctor Strange",duration=126,imgurl="https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",category="Action",viewurl="doctor-strange.cshtml"},
+                new PopularMovies(){name="Doctor Strange",duration=126,imgurl="https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",category="Action",viewurl="doctor-strange.cshtml", id=1},
                 new PopularMovies(){name="The Northman",duration=137,imgurl="https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",category="Adventure"},
                 new PopularMovies(){name="Lord Of The Rings",duration=178,imgurl="https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",category="Adventure"},
                 new PopularMovies(){name="The Godfather",duration=175,imgurl="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",category="Crime"},
