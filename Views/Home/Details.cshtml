@@ -1,4 +1,4 @@
-@model IEnumerable<PopularMovies>
+@model PopularMovies
 @{
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
@@ -23,18 +23,9 @@
         <!-- Play Text -->
         <div class="play-text">
             <h2>Infinite</h2>
-            <div class="rating">
-                <i class='bx bxs-star' ></i>
-                <i class='bx bxs-star' ></i>
-                <i class='bx bxs-star' ></i>
-                <i class='bx bxs-star-half' ></i>
-                <i class='bx bx-star' ></i>
-            </div>
             <!-- tags -->
             <div class="tags">
-                <span>Action</span>
-                <span>Sci-fi</span>
-                <span>Thriller</span>
+                <span>@Model.category</span>
             </div>
 
             <!-- imdb -->

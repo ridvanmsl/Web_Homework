@@ -26,6 +26,7 @@ namespace WebAssignmentt.Models
         public string? actor5 { get; set; }
         public string? actor5img { get; set; }
         public string? actor5_url { get; set; }
+        public bool ispopular { get; set; }
 
     }
 }

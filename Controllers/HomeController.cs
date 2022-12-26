@@ -16,7 +16,7 @@ namespace WebAssignmentt.Controllers
             {
                 return NotFound();
             }
-            var content = PopularMoviesRepo.Popmov.Where(i => i.id == id);
+            var content = PopularMoviesRepo.Popmov.FirstOrDefault(i => i.id == id);
             if(content == null)
             {
                 return NotFound();
