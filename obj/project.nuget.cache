@@ -1,20 +1,15 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-  "dgSpecHash": "o2ycmYv3Z2s7388E2fePKpRHW3PXhzqgdLzYxadgFSgj55XN52I3Lgjg9KeCUEr925JOfNor0OMpghnOheRoRA==",
-  "success": true,
-  "projectFilePath": "/Users/armanyayci/Documents/GitHub/Web_Homework/WebAssignmentt.csproj",
-=======
   "dgSpecHash": "Mnnk3tDKWUMFlAUiCbwqa+8HN3dbpwCN/imVDWbcCyaR7cYNSbKHdkwidNIGlvc22oN2TpQjlvLMspINg1J6NQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\WebAssignmentt.csproj",
->>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
-=======
-  "dgSpecHash": "o2ycmYv3Z2s7388E2fePKpRHW3PXhzqgdLzYxadgFSgj55XN52I3Lgjg9KeCUEr925JOfNor0OMpghnOheRoRA==",
-  "success": true,
-  "projectFilePath": "/Users/armanyayci/Documents/GitHub/Web_Homework/WebAssignmentt.csproj",
->>>>>>> Stashed changes
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Önbellek dosyası C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\obj\\project.nuget.cache okunurken bir sorun oluştu : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

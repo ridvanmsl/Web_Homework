@@ -1,26 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
-    "/Users/armanyayci/Documents/GitHub/Web_Homework/WebAssignmentt.csproj": {}
-  },
-  "projects": {
-    "/Users/armanyayci/Documents/GitHub/Web_Homework/WebAssignmentt.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/armanyayci/Documents/GitHub/Web_Homework/WebAssignmentt.csproj",
-        "projectName": "WebAssignmentt",
-        "projectPath": "/Users/armanyayci/Documents/GitHub/Web_Homework/WebAssignmentt.csproj",
-        "packagesPath": "/Users/armanyayci/.nuget/packages/",
-        "outputPath": "/Users/armanyayci/Documents/GitHub/Web_Homework/obj/",
-<<<<<<< Updated upstream
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/armanyayci/.nuget/NuGet/NuGet.Config"
-=======
     "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\WebAssignmentt.csproj": {}
   },
   "projects": {
@@ -36,24 +16,12 @@
         "configFilePaths": [
           "C:\\Users\\Eray\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
-=======
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/armanyayci/.nuget/NuGet/NuGet.Config"
->>>>>>> Stashed changes
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-=======
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
->>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
-=======
->>>>>>> Stashed changes
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -89,15 +57,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
->>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
-=======
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
->>>>>>> Stashed changes
         }
       }
     }

@@ -157,3 +157,14 @@ C:/Users/Eray/Documents/GitHub/Web_Homework/obj/Debug/net6.0/ref/WebAssignmentt.
 /Users/armanyayci/Documents/GitHub/Web_Homework/obj/Debug/net6.0/WebAssignmentt.pdb
 /Users/armanyayci/Documents/GitHub/Web_Homework/obj/Debug/net6.0/WebAssignmentt.genruntimeconfig.cache
 /Users/armanyayci/Documents/GitHub/Web_Homework/obj/Debug/net6.0/ref/WebAssignmentt.dll
+C:\Users\Eray\Documents\GitHub\Web_Homework\obj\Debug\net6.0\WebAssignmentt.csproj.AssemblyReference.cache
+C:\Users\Eray\Documents\GitHub\Web_Homework\obj\Debug\net6.0\WebAssignmentt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eray\Documents\GitHub\Web_Homework\obj\Debug\net6.0\WebAssignmentt.AssemblyInfoInputs.cache
+C:\Users\Eray\Documents\GitHub\Web_Homework\obj\Debug\net6.0\WebAssignmentt.AssemblyInfo.cs
+C:\Users\Eray\Documents\GitHub\Web_Homework\obj\Debug\net6.0\WebAssignmentt.csproj.CoreCompileInputs.cache
+C:\Users\Eray\Documents\GitHub\Web_Homework\obj\Debug\net6.0\WebAssignmentt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eray\Documents\GitHub\Web_Homework\obj\Debug\net6.0\WebAssignmentt.RazorAssemblyInfo.cache
+C:\Users\Eray\Documents\GitHub\Web_Homework\obj\Debug\net6.0\WebAssignmentt.RazorAssemblyInfo.cs
+C:\Users\Eray\Documents\GitHub\Web_Homework\obj\Debug\net6.0\WebAssignmentt.dll
+C:\Users\Eray\Documents\GitHub\Web_Homework\obj\Debug\net6.0\refint\WebAssignmentt.dll
+C:\Users\Eray\Documents\GitHub\Web_Homework\obj\Debug\net6.0\WebAssignmentt.pdb

@@ -8,33 +8,11 @@
     "net6.0": []
   },
   "packageFolders": {
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-    "/Users/armanyayci/.nuget/packages/": {}
-=======
     "C:\\Users\\Eray\\.nuget\\packages\\": {}
->>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
-=======
-    "/Users/armanyayci/.nuget/packages/": {}
->>>>>>> Stashed changes
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
-      "projectUniqueName": "/Users/armanyayci/Documents/GitHub/Web_Homework/WebAssignmentt.csproj",
-      "projectName": "WebAssignmentt",
-      "projectPath": "/Users/armanyayci/Documents/GitHub/Web_Homework/WebAssignmentt.csproj",
-      "packagesPath": "/Users/armanyayci/.nuget/packages/",
-      "outputPath": "/Users/armanyayci/Documents/GitHub/Web_Homework/obj/",
-<<<<<<< Updated upstream
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "/Users/armanyayci/.nuget/NuGet/NuGet.Config"
-=======
       "projectUniqueName": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\WebAssignmentt.csproj",
       "projectName": "WebAssignmentt",
       "projectPath": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\WebAssignmentt.csproj",
@@ -44,24 +22,12 @@
       "configFilePaths": [
         "C:\\Users\\Eray\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
-=======
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "/Users/armanyayci/.nuget/NuGet/NuGet.Config"
->>>>>>> Stashed changes
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-=======
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
->>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
-=======
->>>>>>> Stashed changes
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -97,16 +63,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
-=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
->>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
-=======
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
->>>>>>> Stashed changes
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Önbellek dosyası C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\obj\\project.nuget.cache okunurken bir sorun oluştu : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

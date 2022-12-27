@@ -8,6 +8,182 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebAssignmentt
 build_property.RootNamespace = WebAssignmentt
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+build_property.ProjectDir = /Users/armanyayci/Documents/GitHub/Web_Homework/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/armanyayci/Documents/GitHub/Web_Homework
+build_property._RazorSourceGeneratorDebug = 
+
+<<<<<<< Updated upstream
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/About/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXQvQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/About/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXQvU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/LatestMovieNewsPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9MYXRlc3RNb3ZpZU5ld3NQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/avatar-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvYXZhdGFyLTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/batman.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvYmF0bWFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/black-adam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvYmxhY2stYWRhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/correct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvY29ycmVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/cruella.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvY3J1ZWxsYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/doctor-strange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZG9jdG9yLXN0cmFuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/dune.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZHVuZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/encounter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZW5jb3VudGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/fast-x.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZmFzdC14LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/fight-club.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZmlnaHQtY2x1Yi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/freeguy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZnJlZWd1eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/gentlemen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZ2VudGxlbWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/gf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZ2YuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/halo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvaGFsby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/heat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvaGVhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/infinite.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvaW5maW5pdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/interstellar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvaW50ZXJzdGVsbGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/john.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvam9obi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/jurassic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvanVyYXNzaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/lotr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvbG90ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/lucy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvbHVjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/northman.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvbm9ydGhtYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/pulp-fiction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvcHVscC1maWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/shazam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvc2hhemFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/the-wrong-place.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvdGhlLXdyb25nLXBsYWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/theking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvdGhla2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/thor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvdGhvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/toronto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvdG9yb250by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/tsr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvdHNyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/watcher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvd2F0Y2hlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/PopularMoviesPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qb3B1bGFyTW92aWVzUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/SectionComingPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TZWN0aW9uQ29taW5nUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Shared/_HeaderPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jfet9zgdjd
+=======
 build_property.ProjectDir = C:\Users\Eray\Documents\GitHub\Web_Homework\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
@@ -15,32 +191,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Eray\Documents\GitHub\Web_Homework
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Eray/Documents/GitHub/Web_Homework/Views/About/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQ29udGFjdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Eray/Documents/GitHub/Web_Homework/Views/About/Show.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcU2hvdy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Contact/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxBYm91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Home/doctor-strange.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkb2N0b3Itc3RyYW5nZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Home/LatestMovieNewsPartialView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMYXRlc3RNb3ZpZU5ld3NQYXJ0aWFsVmlldy5jc2h0bWw=
+[C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Home/movies/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtb3ZpZXNcYWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Home/movies/avatar-2.cshtml]
@@ -61,6 +221,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Home/movies/cruella.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtb3ZpZXNcY3J1ZWxsYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Home/movies/doctor-strange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtb3ZpZXNcZG9jdG9yLXN0cmFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Home/movies/dune.cshtml]
@@ -159,20 +323,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtb3ZpZXNcd2F0Y2hlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Home/PopularMoviesPartialView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3B1bGFyTW92aWVzUGFydGlhbFZpZXcuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Home/SectionComingPartialView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWN0aW9uQ29taW5nUGFydGlhbFZpZXcuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Shared/_HeaderPartialView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Eray/Documents/GitHub/Web_Homework/Views/_ViewImports.cshtml]
@@ -186,3 +338,153 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Eray/Documents/GitHub/Web_Homework/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mkl4v6a9id
+>>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Contact/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/doctor-strange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9kb2N0b3Itc3RyYW5nZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/avatar-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvYXZhdGFyLTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/batman.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvYmF0bWFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/black-adam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvYmxhY2stYWRhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/correct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvY29ycmVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/cruella.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvY3J1ZWxsYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/dune.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZHVuZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/encounter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZW5jb3VudGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/fast-x.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZmFzdC14LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/fight-club.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZmlnaHQtY2x1Yi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/freeguy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZnJlZWd1eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/gentlemen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZ2VudGxlbWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/gf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvZ2YuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/halo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvaGFsby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/heat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvaGVhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/infinite.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvaW5maW5pdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/interstellar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvaW50ZXJzdGVsbGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/john.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvam9obi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/jurassic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvanVyYXNzaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/lotr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvbG90ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/lucy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvbHVjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/northman.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvbm9ydGhtYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/pulp-fiction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvcHVscC1maWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/shazam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvc2hhemFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/the-wrong-place.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvdGhlLXdyb25nLXBsYWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/theking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvdGhla2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/thor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvdGhvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/toronto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvdG9yb250by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/tsr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvdHNyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/movies/watcher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tb3ZpZXMvd2F0Y2hlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/armanyayci/Documents/GitHub/Web_Homework/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jfet9zgdjd
+>>>>>>> Stashed changes
