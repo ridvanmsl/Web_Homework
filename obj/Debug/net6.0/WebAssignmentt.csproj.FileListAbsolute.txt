@@ -102,6 +102,7 @@ C:/Users/ridva/OneDrive/Masaüstü/web_homework/Web_Homework/obj/Debug/net6.0/re
 C:/Users/ridva/OneDrive/Masaüstü/web_homework/Web_Homework/obj/Debug/net6.0/WebAssignmentt.pdb
 C:/Users/ridva/OneDrive/Masaüstü/web_homework/Web_Homework/obj/Debug/net6.0/WebAssignmentt.genruntimeconfig.cache
 C:/Users/ridva/OneDrive/Masaüstü/web_homework/Web_Homework/obj/Debug/net6.0/ref/WebAssignmentt.dll
+<<<<<<< Updated upstream
 C:/Users/Eray/Documents/GitHub/Web_Homework/bin/Debug/net6.0/appsettings.Development.json
 C:/Users/Eray/Documents/GitHub/Web_Homework/bin/Debug/net6.0/appsettings.json
 C:/Users/Eray/Documents/GitHub/Web_Homework/bin/Debug/net6.0/WebAssignmentt.staticwebassets.runtime.json
@@ -128,6 +129,8 @@ C:/Users/Eray/Documents/GitHub/Web_Homework/obj/Debug/net6.0/refint/WebAssignmen
 C:/Users/Eray/Documents/GitHub/Web_Homework/obj/Debug/net6.0/WebAssignmentt.pdb
 C:/Users/Eray/Documents/GitHub/Web_Homework/obj/Debug/net6.0/WebAssignmentt.genruntimeconfig.cache
 C:/Users/Eray/Documents/GitHub/Web_Homework/obj/Debug/net6.0/ref/WebAssignmentt.dll
+=======
+>>>>>>> Stashed changes
 /Users/armanyayci/Documents/GitHub/Web_Homework/bin/Debug/net6.0/appsettings.Development.json
 /Users/armanyayci/Documents/GitHub/Web_Homework/bin/Debug/net6.0/appsettings.json
 /Users/armanyayci/Documents/GitHub/Web_Homework/bin/Debug/net6.0/WebAssignmentt.staticwebassets.runtime.json

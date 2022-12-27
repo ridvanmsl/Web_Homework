@@ -10,8 +10,26 @@
     <link rel="shortcut icon" href="img/movie-solid-24.png" type="image/x-icon">
 </head>
 <body>
+<<<<<<< Updated upstream
 
     <partial name="_HeaderPartialView" />
+=======
+    <!--=============== NAVBAR ===============-->
+    <header>
+        <a href="index.html" class="logo">
+            <i class='bx bxs-movie'></i> MOVBOT
+        </a>
+        <div class="bx bx-menu" id="menu-icon"></div>
+        <!--=============== MENU ===============-->
+        <ul class="navbar">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#movies">Films</a></li>
+            <li><a href="#coming">Soon</a></li>
+            <li><a href="#news">News</a></li>
+        </ul>
+        <a asp-controller="Contact" asp-action="About" class="btn">Contact</a>
+    </header>
+>>>>>>> Stashed changes
 
     @RenderBody()
 

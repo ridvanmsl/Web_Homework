@@ -1,10 +1,14 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   "Hash": "E7BLxuUSpgeuW3WnFjUtqAkfMS6jl5yChlOwfHfKU4c=",
 =======
   "Hash": "/UaEJBl+XJxGkZgDoo1w+fG2F4ZfZ2oNdSDLjxcqBfI=",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+  "Hash": "9uYXCcXevdUlPwn//dTE2qBaSC5zi+/E/u3yzAyA7no=",
+>>>>>>> Stashed changes
   "Source": "WebAssignmentt",
   "BasePath": "_content/WebAssignmentt",
   "Mode": "Default",
@@ -14,28 +18,38 @@
     {
       "Name": "WebAssignmentt/wwwroot",
       "Source": "WebAssignmentt",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
 =======
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/obj/Debug/net6.0/scopedcss/bundle/WebAssignmentt.styles.css",
       "SourceId": "WebAssignmentt",
       "SourceType": "Computed",
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/obj/Debug/net6.0/scopedcss/bundle/",
+<<<<<<< Updated upstream
 =======
       "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebAssignmentt.styles.css",
       "SourceId": "WebAssignmentt",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "WebAssignmentt.styles.css",
       "AssetKind": "All",
@@ -46,7 +60,10 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
       "OriginalItemSpec": "/Users/armanyayci/Documents/GitHub/Web_Homework/obj/Debug/net6.0/scopedcss/bundle/WebAssignmentt.styles.css"
     },
     {
@@ -54,6 +71,7 @@
       "SourceId": "WebAssignmentt",
       "SourceType": "Computed",
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/obj/Debug/net6.0/scopedcss/projectbundle/",
+<<<<<<< Updated upstream
 =======
       "OriginalItemSpec": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebAssignmentt.styles.css"
     },
@@ -63,6 +81,8 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "WebAssignmentt.bundle.scp.css",
       "AssetKind": "All",
@@ -73,6 +93,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "OriginalItemSpec": "/Users/armanyayci/Documents/GitHub/Web_Homework/obj/Debug/net6.0/scopedcss/projectbundle/WebAssignmentt.bundle.scp.css"
     },
@@ -114,6 +135,15 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "/Users/armanyayci/Documents/GitHub/Web_Homework/obj/Debug/net6.0/scopedcss/projectbundle/WebAssignmentt.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/css/site.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -127,6 +157,7 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/favicon.ico",
       "SourceId": "WebAssignmentt",
@@ -138,6 +169,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/favicon.ico",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -149,6 +186,7 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+<<<<<<< Updated upstream
     },
     {
 <<<<<<< HEAD
@@ -344,16 +382,23 @@
     },
     {
 <<<<<<< HEAD
+=======
+    },
+    {
+>>>>>>> Stashed changes
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/js/site.js",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+<<<<<<< Updated upstream
 =======
       "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\js\\site.js",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -367,6 +412,7 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "WebAssignmentt",
@@ -377,143 +423,12 @@
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
->>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -524,6 +439,200 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+>>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
@@ -538,8 +647,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -548,6 +666,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
@@ -562,8 +681,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -572,6 +700,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
@@ -586,8 +715,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -596,6 +734,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
@@ -610,8 +749,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -620,6 +768,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
@@ -634,8 +783,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -644,6 +802,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
@@ -658,8 +817,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -668,6 +836,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
@@ -682,8 +851,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -692,6 +870,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
@@ -706,8 +885,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -716,6 +904,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
@@ -730,8 +919,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -740,6 +938,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
@@ -754,8 +953,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -764,6 +972,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
@@ -778,8 +987,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -788,6 +1006,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
@@ -802,8 +1021,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -812,6 +1040,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
@@ -826,8 +1055,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -836,6 +1074,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
@@ -850,8 +1089,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -860,6 +1108,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
@@ -874,8 +1123,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -884,6 +1142,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
@@ -898,8 +1157,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -908,6 +1176,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
@@ -922,8 +1191,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -932,6 +1210,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
@@ -946,8 +1225,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -956,6 +1244,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
@@ -970,8 +1259,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -980,6 +1278,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
@@ -994,8 +1293,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1004,6 +1312,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
@@ -1018,8 +1327,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1028,6 +1346,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
@@ -1042,8 +1361,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1052,6 +1380,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
@@ -1066,8 +1395,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1076,6 +1414,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
@@ -1226,6 +1565,15 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1239,17 +1587,23 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+<<<<<<< Updated upstream
 =======
       "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1263,6 +1617,7 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "WebAssignmentt",
@@ -1274,6 +1629,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1287,17 +1648,23 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+<<<<<<< Updated upstream
 =======
       "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1311,6 +1678,7 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "WebAssignmentt",
@@ -1322,6 +1690,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1335,6 +1709,7 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "WebAssignmentt",
@@ -1346,6 +1721,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1359,17 +1740,23 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+<<<<<<< Updated upstream
 =======
       "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1383,6 +1770,7 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "WebAssignmentt",
@@ -1394,6 +1782,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1407,17 +1801,23 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+<<<<<<< Updated upstream
 =======
       "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1431,6 +1831,7 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "WebAssignmentt",
@@ -1442,6 +1843,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1455,6 +1862,7 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "WebAssignmentt",
@@ -1466,6 +1874,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1479,17 +1893,23 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+<<<<<<< Updated upstream
 =======
       "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1503,6 +1923,7 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "WebAssignmentt",
@@ -1514,6 +1935,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/bootstrap/LICENSE",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1527,170 +1954,22 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+<<<<<<< Updated upstream
 =======
       "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/jquery/dist/jquery.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/jquery/LICENSE.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
-      "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "WebAssignmentt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
->>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1701,6 +1980,224 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery-validation/LICENSE.md",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery/dist/jquery.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
+    },
+    {
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
+>>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery/dist/jquery.min.js",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
+      "BasePath": "_content/WebAssignmentt",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
@@ -1715,8 +2212,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery/dist/jquery.min.map",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1725,6 +2231,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
@@ -1739,8 +2246,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\wwwroot\\",
 >>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
+=======
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery/LICENSE.txt",
+      "SourceId": "WebAssignmentt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
+>>>>>>> Stashed changes
       "BasePath": "_content/WebAssignmentt",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1749,6 +2265,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
@@ -1770,6 +2287,12 @@
     },
     {
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+=======
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/src/hero.jpg",
+>>>>>>> Stashed changes
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
@@ -1783,10 +2306,17 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+=======
+      "OriginalItemSpec": "wwwroot/src/hero.jpg"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/src/hero2.jpg",
+>>>>>>> Stashed changes
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
@@ -1800,10 +2330,17 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
       "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+=======
+      "OriginalItemSpec": "wwwroot/src/hero2.jpg"
+    },
+    {
+      "Identity": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/src/hero3.jpg",
+>>>>>>> Stashed changes
       "SourceId": "WebAssignmentt",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/armanyayci/Documents/GitHub/Web_Homework/wwwroot/",
@@ -1902,7 +2439,11 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+=======
+      "OriginalItemSpec": "wwwroot/src/hero3.jpg"
+>>>>>>> Stashed changes
     }
   ]
 }
