@@ -4,12 +4,5 @@
   "success": true,
   "projectFilePath": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\WebAssignmentt.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Önbellek dosyası C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\obj\\project.nuget.cache okunurken bir sorun oluştu : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
