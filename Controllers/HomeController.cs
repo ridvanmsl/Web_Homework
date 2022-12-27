@@ -10,7 +10,6 @@ namespace WebAssignmentt.Controllers
         {
             return View();
         }
-<<<<<<< Updated upstream
         public IActionResult Details(int? id)
         {
             if(id == null)
@@ -24,26 +23,6 @@ namespace WebAssignmentt.Controllers
             }
             return View(content);
         }
-=======
-
-        //public IActionResult Films(int idd)
-        //{
-        //    var s = PopularMoviesRepo.Popmov;
-        //    string ss= "";
-        //    foreach(var item in s)
-        //    {
-        //        if(item.id == idd)
-        //        {
-        //           //ss = item.view_url;
-        //        }
-        //    }
-
-        //    return View();
-        //}
-
-        
-
->>>>>>> Stashed changes
     }
 
 
