@@ -3,18 +3,22 @@
     public class repository
     {
         private List<movies> _mov = new List<movies>();
+<<<<<<< HEAD
 
         //private List<contact_info> _contact_infos = new List<contact_info>();
 
         private List<movieComment> _mov_comment = new List<movieComment>();
 
+=======
+>>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
         public List<movies> mov
         {
             get
             {
-                return _mov;    
+                return _mov;
             }
         }
+<<<<<<< HEAD
         public List<movieComment> mov_comment
         {
             get
@@ -40,6 +44,8 @@
         //    _contact_infos.Add(info);              
         //}
 
+=======
+>>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
     }
 }
 

@@ -8,11 +8,16 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "/Users/armanyayci/.nuget/packages/": {}
+=======
+    "C:\\Users\\Eray\\.nuget\\packages\\": {}
+>>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/Users/armanyayci/Documents/GitHub/Web_Homework/WebAssignmentt.csproj",
       "projectName": "WebAssignmentt",
       "projectPath": "/Users/armanyayci/Documents/GitHub/Web_Homework/WebAssignmentt.csproj",
@@ -21,11 +26,26 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/armanyayci/.nuget/NuGet/NuGet.Config"
+=======
+      "projectUniqueName": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\WebAssignmentt.csproj",
+      "projectName": "WebAssignmentt",
+      "projectPath": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\WebAssignmentt.csproj",
+      "packagesPath": "C:\\Users\\Eray\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eray\\Documents\\GitHub\\Web_Homework\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Eray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+<<<<<<< HEAD
+=======
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+>>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,8 +69,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -62,7 +81,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+>>>>>>> b41895285b59b2d6e8d05d7cea5e6c33138d21a8
       }
     }
   }
