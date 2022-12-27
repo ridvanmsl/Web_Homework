@@ -747,7 +747,7 @@ header {
     background-color: var(--main-color);
     box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.15);
     border-radius: 11px;
-    background-image: linear-gradient(to right bottom, #eb4e4e, #441919); /*to right saðdan baþlasýn*/
+    background-image: linear-gradient(to right bottom, #eb4e4e, #441919); /*to right saï¿½dan baï¿½lasï¿½n*/
     overflow: hidden; /**/
 }
 
@@ -1131,4 +1131,19 @@ input[type="checkbox"]:checked {
     font-weight: 200;
     margin-bottom: 1rem;
     color: var(--bg-color);
+}
+
+.conteditor {
+
+    margin-right: 4rem;
+    margin-left: 4rem;
+    text-align:center;
+}
+
+.zorman {
+    text-align: center;
+    justify-content: center;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    font-size:1.5rem;
 }

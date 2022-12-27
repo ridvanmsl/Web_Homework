@@ -7,9 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Views\About\" />
+    <None Remove="ViewComponent\" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="wwwroot\img\hero.jpg" />
     <None Include="wwwroot\img\hero2.jpg" />
     <None Include="wwwroot\img\hero3.jpg" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\About\" />
+    <Folder Include="ViewComponents\" />
+  </ItemGroup>
 </Project>

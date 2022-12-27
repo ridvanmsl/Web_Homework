@@ -10,25 +10,15 @@
     <link rel="shortcut icon" href="img/movie-solid-24.png" type="image/x-icon">
 </head>
 <body>
-    <!--=============== NAVBAR ===============-->
-    <header>
-        <a asp-controller="Home" asp-action="Index" class="logo">
-            <i class='bx bxs-movie'></i> MOVBOT
-        </a>
-        <div class="bx bx-menu" id="menu-icon"></div>
-        <!--=============== MENU ===============-->
-        <ul class="navbar">
-            <li><a href="#home">Home</a></li>
-            <li><a href="#movies">Films</a></li>
-            <li><a href="#coming">Soon</a></li>
-            <li><a href="#news">News</a></li>
-        </ul>
-        <a asp-controller="About" asp-action="about" class="btn">Contact</a>
-    </header>
+
+    <partial name="_HeaderPartialView" />
 
     @RenderBody()
 
 
+    
+
+    @RenderSection("contact", false)
     <!--=============== SECTION FOOTER ===============-->
     <section class="footer">
         <a href="#" class="logo">
@@ -40,8 +30,6 @@
             <a href="#"><i class='bx bxl-instagram'></i></a>
         </div>
     </section>
-
-    </div>
 
     <!-- Copyright -->
     <div class="copyright">
